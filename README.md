@@ -4,7 +4,7 @@ A Python keylogger designed to capture keyboard input for assessing security and
 
 # First Things First
 
-- Download Python 3.12
+- Download Python
 - Download Repository As .zip File
 - Extract .zip File Place It Where You Want It To Be.
   
