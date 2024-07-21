@@ -31,7 +31,7 @@ Example: C:\keylogger
 
 # Sidenote
 
-- Do not use this for Malicious Intent. This was made for a project since I am a Cybersecurity Student.
+- Do not use this for Malicious Intent. This was made for a project since I am a Cybersecurity Enthusiast.
 - This is meant to better understand how attackers do the things they do, do not emulate this into a workplace environment.
 - I am not liable for any harm done by using this program.
 - Use at your own risk.
