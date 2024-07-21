@@ -17,7 +17,7 @@ Example: C:\keylogger
 # Install Dependencies
 
   ```bash
-    pip install -r requirements.txt
+    pip install -r Requirements.txt
   ```
 
 ---
